@@ -393,3 +393,7 @@ V.1.0 Alpha 5
 	- Summoner[Cora Chip Memory]
 	- Hunter[Cora Chip Memory]
 	- Knight[Cora Chip Memory]
+V.1.0 Alpha 6
+======== Client Side ===========
+- Adding Frost
+- Adding Launcher
