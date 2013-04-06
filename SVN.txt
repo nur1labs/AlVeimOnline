@@ -394,6 +394,13 @@ V.1.0 Alpha 5
 	- Hunter[Cora Chip Memory]
 	- Knight[Cora Chip Memory]
 V.1.0 Alpha 6
+//4-6-2013 22:50 #c3rb3ru5
 ======== Client Side ===========
 - Adding Frost
 - Adding Launcher
+#Bug Issue 4 By $Fadel Attar Chazalie
+//4-6-2013 23:50 #c3rb3ru5
+======== Client Side ===========
+- Adding .bin
+- Adding Plugin
+	+ Register Emergency
