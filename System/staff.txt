@@ -1,0 +1,68 @@
+#3AlVeim Online - The Furton Race
+#
+#3- Albopictus -
+#
+
+
+
+     #2Game Core
+
+                                             
+#
+
+              #1Lead System Maker	#0Hatta Yuthafiga
+#
+              #1AI MArker	           #0Hatta Yuthafiga
+					   #0Shirohige Sivolviaski[R.I.P]
+					   #0Jack Frakeinstone[R.I.P]
+					   #0Nanoko Yuthafiga
+
+#  
+     
+#2Program
+
+#
+#1Chief					#0Hatta Yuthafiga
+
+		#1Server Programmer	#0Hatta Yuthafiga
+		#1Client Programmer	#0Nanoko Yuthafiga
+		#1Engine Programmer	#0Hatta Yuthafiga
+		#1MBGC			#0Hatta Yuthafiga
+						#0Nanoko Yuthafiga
+						#0Flex
+		#1XGBC			#0Hatta Yuthafiga
+						#0Nanoko Yuthafiga
+
+#
+		#1Reseacher			#0Hatta Yuthafiga
+						#0Nanoko Yuthafiga
+						#0Sakura
+                                                #0Airi
+                                                #0Makoto
+                                                #0Mark Laranang
+
+#   
+#2Server Manager
+#1Owner					#0Anton Galuzo
+		#1Server Programmer	#0Hatta Yuthafiga
+		#1Database Engine	#0Hatta Yuthafiga
+		#1Core Engine		#0Hatta Yuthafiga
+ 		#1Rank Maker		#0Hatta Yuthafiga
+		#1Debug And Analize Report	#0Hatta Yuthafiga
+
+#2Admin And Game Master
+		#1Admin			#0Hatta Yuthafiga
+					#0Mark Laranang
+					#0Anton Galuzo
+					#0Rico'w Gozila
+		#1GM			#0Artificial Intelligent System(AIS)
+#2Game Concept
+		#1Programmer			#0Hatta Yuthafiga
+		#1NPC				#0Hatta Yuthafiga
+		#1Mapping			#0Hatta Yuthafiga
+		#1Game System			#0Hatta Yuthafiga
+#
+		#1Drop System			#0Dandy Michael
+						#0Andi Moehammad Fadhli
+#
+		#1Assistant Manager		#0Leomar Natvidad
