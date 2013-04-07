@@ -404,3 +404,9 @@ V.1.0 Alpha 6
 - Adding .bin
 - Adding Plugin
 	+ Register Emergency
+V.1.0 Alpha 7
+#Bug Issue 5 By $Muhammad Qadri Khaerun Ali
+//4-7-2013 9:15 #c3rb3ru5
+======== Client Side ===========
+- Delete Shop Trigger
+	- Hissy Potion
