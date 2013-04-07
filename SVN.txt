@@ -422,3 +422,8 @@ V.1.0 Alpha 7
 	- mss32.dll
 - Adding New Lib
 	+ mss32.dll
+//4-7-2013 11:33 #c3rb3ru5
+======== Client Side ===========
+- Anti Lagging
+	+ Vc 2005
+	+ Vc 2008
