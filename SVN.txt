@@ -415,3 +415,10 @@ V.1.0 Alpha 7
 ======== Client Side ===========
 - Adding Shop Trigger
 	+ Hissy Potion
+#Bug Issue 2 By $Aan,Gerry,Kylle
+//4-7-2013 10:44 #c3rb3ru5
+======== Client Side ===========
+- Remove Old Lib
+	- mss32.dll
+- Adding New Lib
+	+ mss32.dll
