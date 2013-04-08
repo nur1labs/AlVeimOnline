@@ -427,3 +427,8 @@ V.1.0 Alpha 7
 - Anti Lagging
 	+ Vc 2005
 	+ Vc 2008
+V.1.0 Alpha 8
+#Bug Issue 2 By $Rumia
+//4-7-2013 10:44 #c3rb3ru5
+======== Client Side ===========
+- Shop Fixed
