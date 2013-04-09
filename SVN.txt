@@ -433,3 +433,13 @@ V.1.0 Alpha 8
 ======== Client Side ===========
 - Shop Fixed
 - Deleting .Bin Project
+V.1.0 Alpha 9
+#Bug Issue 2 By $Nathan
+//4-7-2013 10:44 #c3rb3ru5
+======== Server Side ===========
+- Pig Shop +7 Delete
+	- Coupon
+- Fixed Security Issue
+======== Client Side ===========
+- Hero
+	- Grade 5
