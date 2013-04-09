@@ -434,8 +434,8 @@ V.1.0 Alpha 8
 - Shop Fixed
 - Deleting .Bin Project
 V.1.0 Alpha 9
-#Bug Issue 2 By $Nathan
-//4-7-2013 10:44 #c3rb3ru5
+#Bug Issue 3 By $Nathan
+//4-8-2013 7:29 #c3rb3ru5
 ======== Server Side ===========
 - Pig Shop +7 Delete
 	- Coupon
@@ -443,3 +443,6 @@ V.1.0 Alpha 9
 ======== Client Side ===========
 - Hero
 	- Grade 5
+//4-8-2013 7:30 #c3rb3ru5
+======== Client Side ===========
+- Protection Adding
