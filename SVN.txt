@@ -455,3 +455,8 @@ V.1.0 Alpha 10
 #merge project $Frozen
 - Adding New Normal Launcher
 	+ Reconfig Web Launcher
+#Bug Issue 5 By $Alberto
+//4-10-2013 9:36 #c3rb3ru5
+======== Server Side ===========
+- Fixed Shop
+	+ Shop Pig Golden
