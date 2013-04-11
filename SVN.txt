@@ -446,3 +446,12 @@ V.1.0 Alpha 9
 //4-8-2013 7:30 #c3rb3ru5
 ======== Client Side ===========
 - Protection Adding
+V.1.0 Alpha 10
+#Bug Issue 4 By $AllPlayer
+//4-10-2013 9:00 #c3rb3ru5
+======== Server Side ===========
+- Adding New Drops
+	+ Chance(1-10K Gold Capsule)
+#merge project $Frozen
+- Adding New Normal Launcher
+	+ Reconfig Web Launcher
