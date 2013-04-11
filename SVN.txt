@@ -463,3 +463,10 @@ V.1.0 Alpha 10
 //4-10-2013 11:30 #c3rb3ru5
 ======== Client Side ===========
 - Adding Guide For Github
+//4-10-2013 3:25 #c3rb3ru5
+======== Server Side ===========
+- New Council Release
+	+ Aldeon Kuradon Council
+======== Client Side ===========
+- New Council Release
+	+ Aldeon Kuradon Council
