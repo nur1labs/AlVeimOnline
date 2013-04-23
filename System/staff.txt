@@ -56,6 +56,7 @@
 					#0Anton Galuzo
 		#1GM			#0Artificial Intelligent System(AIS)
 					#0Nico Sabraha
+					#0Jonathan Fortunatus
 #2Game Concept
 		#1Programmer			#0Hatta Yuthafiga
 		#1NPC				#0Hatta Yuthafiga

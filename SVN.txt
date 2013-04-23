@@ -491,3 +491,7 @@ V.1.0 Alpha 11 Build 1
 	- Andi
 	+ Nico
 	+ BeahMe
+//4-23-2013 12:25 #c3rb3ru5
+======== Client Side ===========
+- Add New Staff
+	+ Nathan
