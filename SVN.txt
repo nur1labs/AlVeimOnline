@@ -478,3 +478,9 @@ V.1.0 Alpha 11
 ======== Client Side ===========
 - New Weapon Release
 	+ Transport Killer
+V.1.0 Alpha 11 Build 1
+//4-23-2013 9:00 #c3rb3ru5
+======== Client Side ===========
+- Anti Critical Error
+- Block Down Client Load
+	+ Add More Looping Interface
