@@ -484,3 +484,10 @@ V.1.0 Alpha 11 Build 1
 - Anti Critical Error
 - Block Down Client Load
 	+ Add More Looping Interface
+//4-23-2013 10:49 #c3rb3ru5
+======== Client Side ===========
+- Add New Staff
+	- Dandy
+	- Andi
+	+ Nico
+	+ BeahMe
