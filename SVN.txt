@@ -415,7 +415,7 @@ V.1.0 Alpha 7
 ======== Client Side ===========
 - Adding Shop Trigger
 	+ Hissy Potion
-#Bug Issue 2 By $Aan,Gerry,Kylle
+#Bug Issue 6 By $Aan,Gerry,Kylle
 //4-7-2013 10:44 #c3rb3ru5
 ======== Client Side ===========
 - Remove Old Lib
@@ -428,13 +428,13 @@ V.1.0 Alpha 7
 	+ Vc 2005
 	+ Vc 2008
 V.1.0 Alpha 8
-#Bug Issue 2 By $Rumia
+#Bug Issue 7 By $Rumia
 //4-7-2013 10:44 #c3rb3ru5
 ======== Client Side ===========
 - Shop Fixed
 - Deleting .Bin Project
 V.1.0 Alpha 9
-#Bug Issue 3 By $Nathan
+#Bug Issue 8 By $Nathan
 //4-8-2013 7:29 #c3rb3ru5
 ======== Server Side ===========
 - Pig Shop +7 Delete
@@ -447,7 +447,7 @@ V.1.0 Alpha 9
 ======== Client Side ===========
 - Protection Adding
 V.1.0 Alpha 10
-#Bug Issue 4 By $AllPlayer
+#Bug Issue 9 By $AllPlayer
 //4-10-2013 9:00 #c3rb3ru5
 ======== Server Side ===========
 - Adding New Drops
@@ -455,7 +455,7 @@ V.1.0 Alpha 10
 #merge project $Frozen
 - Adding New Normal Launcher
 	+ Reconfig Web Launcher
-#Bug Issue 5 By $Alberto
+#Bug Issue 10 By $Alberto
 //4-10-2013 9:36 #c3rb3ru5
 ======== Client Side ===========
 - Fixed Shop
@@ -495,3 +495,7 @@ V.1.0 Alpha 11 Build 1
 ======== Client Side ===========
 - Add New Staff
 	+ Nathan
+#Bug Issue 11 By $Alberto
+//4-23-2013 16:11 #c3rb3ru5
+======== Client Side ===========
+- Fixed Shield Bug
