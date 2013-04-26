@@ -509,3 +509,15 @@ V.1.0 Alpha 11 Build 2
 - Adding Win 8 Support
 	+ VC++ 2010(x64)
 	+ VC++ 2010(x86)
+V.1.0 Alpha 12
+//4-26-2013 15:13 #c3rb3ru5,Flex
+======== Server Side ===========
+- New Elemental Release
+	+ Black Amulet
+	+ White Ring
+- Drop Remove
+	- MS Item
+======== Client Side ===========
+- New Elemental Release
+	+ Black Amulet
+	+ White Ring
