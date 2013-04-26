@@ -1,0 +1,36 @@
+;직진형태
+
+[Particle]
+entity_file .\Chef\recall\isis\Fool_aura\aura.R3E
+num 25
+pos box 0 rand(-2,-1) 0
+
+live_time 2.5
+time_speed 2
+gravity 0 3 0
+	creat_time_epsilon 5
+	start_power 0 1 0
+	start_scale 2
+	start_color 255 50 100
+	start_alpha 0
+	start_zrot rand(0,90)
+	alpha_type 3
+z_front -0.1
+
+
+time 0.5
+	alpha 120
+	scale 3
+	color 255 100 100
+
+time 1.5
+	color 255 50 50
+	alpha 50
+	scale 5.5
+
+time 2.5
+	color 255 0 0
+	alpha 0
+	scale 8
+
+

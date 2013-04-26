@@ -1,0 +1,61 @@
+;소환수연기따옴
+[Particle]
+entity_file .\Chef\recall\Smo00\aura\aura.R3E
+num 25
+pos box rand(-1,1)  rand(-1,1)  rand(-1,1)
+live_time 3
+time_speed 2
+gravity  0 -5 0
+	creat_time_epsilon 5
+	;start_power 2 rand(-1.5,1.5) rand(-1.5,1.5)
+	start_scale 2
+	start_color 255 200 0
+	start_alpha 0
+	start_zrot rand(0,90)
+	alpha_type 3
+z_front -0.3
+
+
+time 0.5
+	zrot rand(0,90)
+	power 0 0 0
+	alpha 100
+	scale 3
+	color  255 50 50 
+
+time 0.8
+	zrot rand(0,90)
+	power 0 0 0
+	color 150 150 150 
+	alpha 50
+	scale 4
+	
+time 1.3
+	zrot rand(0,90)
+	power -1 0 0
+	color 255 0 0
+	alpha 50
+	scale 3
+	
+	
+
+time 1.6
+	zrot rand(0,90)
+	power 0 0 0
+	color  255 100 50 
+	alpha 50
+	scale 2
+
+time 2
+	zrot rand(0,90)
+	power -1 0 0
+	color 150 150 150   
+	alpha 50
+	scale 1
+	
+time 2.5
+	zrot rand(0,90)
+	power -1 0 0
+	color 0 200 255
+	alpha 50
+	scale 0.5

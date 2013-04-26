@@ -1,0 +1,33 @@
+;BAALHAMON
+
+
+[Particle]
+entity_file .\Chef\recall\isis\spkl_1\spkl.r3e
+num	30
+;pos box rand(-0.5,0.5) rand(-0.5,0.5) rand(-0.5,0.5)
+
+live_time 1
+time_speed 2.5
+;gravity	 0 -0.5 0 
+	;start_power 0 rand(-1,1) 0
+	start_time_range 0.1
+	start_color 255 255 50
+	start_scale  rand(7,9)
+	start_alpha 0
+	start_zrot rand(0,180)
+alpha_type 3
+z_front -0.1
+;FREE
+z_billboard
+
+time 0.3
+	scale rand(8,11)
+	alpha 150
+	zrot rand(0,180)
+time 0.6
+	scale rand(10,13)
+	;power rand(-1,1) rand(-2,2) 0
+	
+time 1
+	zrot rand(0,180)
+	alpha 0

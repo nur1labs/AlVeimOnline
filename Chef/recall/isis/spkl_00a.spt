@@ -1,0 +1,28 @@
+;BAALHAMON
+
+
+[Particle]
+entity_file .\Chef\Mob\BAALHAMON\spkl\spkl.r3e
+num	20
+pos box rand(-10,10) rand(-4,7) rand(-10,10)
+
+live_time 10
+time_speed 1
+gravity	 0 -0.5 0 
+	start_power 0 rand(-1,1) 0
+	start_time_range 0.1
+	start_color 0 255 50
+	start_scale 0
+	start_alpha 0
+	start_zrot rand(0,180)
+alpha_type 3
+FREE
+
+time 1
+	
+	scale rand(0.5,2)
+	alpha 150
+time 6
+	power 0 rand(-1,1) rand(-2,2)
+time 10
+	alpha 0

@@ -1,0 +1,32 @@
+;램덤형태색상
+
+[Particle]
+
+entity_file .\Chef\Mob\CALLIANA\aura.R3E
+num 8
+pos box 0 0 0
+live_time 3
+time_speed 1
+gravity 0 5 0
+	creat_time_epsilon 5
+	;start_power 0 -5 0
+	start_scale 4.5
+	start_color 200 200 255
+	start_alpha 0
+	start_zrot rand(0,360)
+	alpha_type 3
+
+z_front -0.1
+;special_id 5
+
+time 0.5
+	alpha 120
+	scale 4.5
+	color 200 200 255
+time 3
+	color 200 200 255
+	alpha 0
+	scale 5
+
+
+
