@@ -504,3 +504,8 @@ V.1.0 Alpha 11 Build 2
 #Bug Issue 12 By $RocketPunch,DeadStriker
 ======== Client Side ===========
 - Recall Animus Fixed
+//4-26-2013 13:00 #c3rb3ru5
+======== Client Side ===========
+- Adding Win 8 Support
+	+ VC++ 2010(x64)
+	+ VC++ 2010(x86)
