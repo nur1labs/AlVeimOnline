@@ -521,3 +521,23 @@ V.1.0 Alpha 12
 - New Elemental Release
 	+ Black Amulet
 	+ White Ring
+V.1.0 Alpha 13
+//5-16-2013 7:18 #c3rb3ru5,Flex
+======== Server Side ===========
+- Edit Elemental
+	+ Black Quantum Amulet
+	+ White Quantum Ring
+- New Elemental Release
+	+ Fire Quantum Amulet
+	+ Dum Quantum Ring
+	+ Destruction Quantum Amulet
+	+ Giga Quantum Amulet
+======== Client Side ===========
+- Edit Elemental
+	+ Black Quantum Amulet
+	+ White Quantum Ring
+- New Elemental Release
+	+ Fire Quantum Amulet
+	+ Dum Quantum Ring
+	+ Destruction Quantum Amulet
+	+ Giga Quantum Amulet
