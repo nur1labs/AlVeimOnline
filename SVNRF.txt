@@ -616,7 +616,10 @@ V.1.0 Beta 2
 		+ Fixed Lower Emerald MAU
 		+ Fixed Back Emerald MAU
 V.1.0 Beta 3
-//5-30-2013 22:03 #Hatta
+//5-30-2013 22:03 #Hatta,Frozen,rIn,Beah
+======== Server Side ===========
+- Added New Mobs Sette
+	+ ??? MObs
 ======== Client Side ===========
 - Fixed MAU Parts
 	+ Fixed Sapphire MAU
