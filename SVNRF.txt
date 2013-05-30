@@ -619,7 +619,7 @@ V.1.0 Beta 3
 //5-30-2013 22:03 #Hatta,Frozen,rIn,Beah
 ======== Server Side ===========
 - Added New Mobs Sette
-	+ ??? MObs
+	+ ??? Mobs
 ======== Client Side ===========
 - Fixed MAU Parts
 	+ Fixed Sapphire MAU
