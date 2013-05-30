@@ -547,3 +547,78 @@ V.1.0 Alpha 14
 - Fixed Golden Armor
 	- Delete Level 40
 	+ Added Level 60
+V.1.0 Beta 1
+//5-29-2013 9:03 #Hatta
+======== Server Side ===========
+- MAU Parts
+	+ Sapphire MAU
+		+ Arm Sapphire MAU
+		+ Head Sapphire MAU
+		+ Upper Sapphire MAU
+		+ Shoulder Sapphire MAU
+		+ Lower Sapphire MAU
+		+ Back Sapphire MAU
+	+ Emerald MAU
+		+ Arm Emerald MAU
+		+ Head Emerald MAU
+		+ Upper Emerald MAU
+		+ Shoulder Emerald MAU
+		+ Lower Emerald MAU
+		+ Back Emerald MAU
+======== Client Side ===========
+- MAU Parts
+	+ Sapphire MAU
+		+ Arm Sapphire MAU
+		+ Head Sapphire MAU
+		+ Upper Sapphire MAU
+		+ Shoulder Sapphire MAU
+		+ Lower Sapphire MAU
+		+ Back Sapphire MAU
+	+ Emerald MAU
+		+ Arm Emerald MAU
+		+ Head Emerald MAU
+		+ Upper Emerald MAU
+		+ Shoulder Emerald MAU
+		+ Lower Emerald MAU
+		+ Back Emerald MAU
+V.1.0 Beta 2
+//5-30-2013 9:03 #Hatta
+======== Server Side ===========
+- Fixed MAU Parts
+	+ Fixed Sapphire MAU
+		+ Fixed Arm Sapphire MAU
+		+ Fixed Head Sapphire MAU
+		+ Fixed Upper Sapphire MAU
+		+ Fixed Shoulder Sapphire MAU
+		+ Fixed Lower Sapphire MAU
+		+ Fixed Back Sapphire MAU
+	+ Fixed Emerald MAU
+		+ Fixed Arm Emerald MAU
+		+ Fixed Head Emerald MAU
+		+ Fixed Upper Emerald MAU
+		+ Fixed Shoulder Emerald MAU
+		+ Fixed Lower Emerald MAU
+		+ Fixed Back Emerald MAU
+======== Client Side ===========
+- Fixed MAU Parts
+	+ Fixed Sapphire MAU
+		+ Fixed Arm Sapphire MAU
+		+ Fixed Head Sapphire MAU
+		+ Fixed Upper Sapphire MAU
+		+ Fixed Shoulder Sapphire MAU
+		+ Fixed Lower Sapphire MAU
+		+ Fixed Back Sapphire MAU
+	+ Fixed Emerald MAU
+		+ Fixed Arm Emerald MAU
+		+ Fixed Head Emerald MAU
+		+ Fixed Upper Emerald MAU
+		+ Fixed Shoulder Emerald MAU
+		+ Fixed Lower Emerald MAU
+		+ Fixed Back Emerald MAU
+V.1.0 Beta 3
+//5-30-2013 22:03 #Hatta
+======== Client Side ===========
+- Fixed MAU Parts
+	+ Fixed Sapphire MAU
+		+ Fixed Arm Sapphire MAU
+		+ Fixed Back Sapphire MAU
