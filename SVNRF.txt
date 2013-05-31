@@ -625,3 +625,37 @@ V.1.0 Beta 3
 	+ Fixed Sapphire MAU
 		+ Fixed Arm Sapphire MAU
 		+ Fixed Back Sapphire MAU
+V.1.0 Beta 4
+//5-31-2013 11:36 #Hatta
+======== Server Side ===========
+- Fixed MAU Parts
+	+ Fixed Sapphire MAU
+		+ Fixed Arm Sapphire MAU
+		+ Fixed Head Sapphire MAU
+		+ Fixed Upper Sapphire MAU
+		+ Fixed Shoulder Sapphire MAU
+		+ Fixed Lower Sapphire MAU
+		+ Fixed Back Sapphire MAU
+	+ Fixed Emerald MAU
+		+ Fixed Arm Emerald MAU
+		+ Fixed Head Emerald MAU
+		+ Fixed Upper Emerald MAU
+		+ Fixed Shoulder Emerald MAU
+		+ Fixed Lower Emerald MAU
+		+ Fixed Back Emerald MAU
+======== Client Side ===========
+- Fixed MAU Parts
+	+ Fixed Sapphire MAU
+		+ Fixed Arm Sapphire MAU
+		+ Fixed Head Sapphire MAU
+		+ Fixed Upper Sapphire MAU
+		+ Fixed Shoulder Sapphire MAU
+		+ Fixed Lower Sapphire MAU
+		+ Fixed Back Sapphire MAU
+	+ Fixed Emerald MAU
+		+ Fixed Arm Emerald MAU
+		+ Fixed Head Emerald MAU
+		+ Fixed Upper Emerald MAU
+		+ Fixed Shoulder Emerald MAU
+		+ Fixed Lower Emerald MAU
+		+ Fixed Back Emerald MAU
