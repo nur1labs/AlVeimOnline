@@ -631,31 +631,79 @@ V.1.0 Beta 4
 - Fixed MAU Parts
 	+ Fixed Sapphire MAU
 		+ Fixed Arm Sapphire MAU
+			+ added damage 1000
+			+ added deff 1000
 		+ Fixed Head Sapphire MAU
+			+ added damage 1000
+			+ added deff 1000
 		+ Fixed Upper Sapphire MAU
+			+ added damage 1000
+			+ added deff 1000
 		+ Fixed Shoulder Sapphire MAU
+			+ added damage 1000
+			+ added deff 1000
 		+ Fixed Lower Sapphire MAU
+			+ added damage 1000
+			+ added deff 1000
 		+ Fixed Back Sapphire MAU
+			+ added damage 1000
+			+ added deff 1000
 	+ Fixed Emerald MAU
 		+ Fixed Arm Emerald MAU
+			+ added damage 1000
+			+ added deff 1000
 		+ Fixed Head Emerald MAU
+			+ added damage 1000
+			+ added deff 1000
 		+ Fixed Upper Emerald MAU
+			+ added damage 1000
+			+ added deff 1000
 		+ Fixed Shoulder Emerald MAU
+			+ added damage 1000
+			+ added deff 1000
 		+ Fixed Lower Emerald MAU
+			+ added damage 1000
+			+ added deff 1000
 		+ Fixed Back Emerald MAU
+			+ added damage 1000
+			+ added deff 1000
 ======== Client Side ===========
 - Fixed MAU Parts
 	+ Fixed Sapphire MAU
 		+ Fixed Arm Sapphire MAU
+			+ added damage 1000
+			+ added deff 1000
 		+ Fixed Head Sapphire MAU
+			+ added damage 1000
+			+ added deff 1000
 		+ Fixed Upper Sapphire MAU
+			+ added damage 1000
+			+ added deff 1000
 		+ Fixed Shoulder Sapphire MAU
+			+ added damage 1000
+			+ added deff 1000
 		+ Fixed Lower Sapphire MAU
+			+ added damage 1000
+			+ added deff 1000
 		+ Fixed Back Sapphire MAU
+			+ added damage 1000
+			+ added deff 1000
 	+ Fixed Emerald MAU
 		+ Fixed Arm Emerald MAU
+			+ added damage 1000
+			+ added deff 1000
 		+ Fixed Head Emerald MAU
+			+ added damage 1000
+			+ added deff 1000
 		+ Fixed Upper Emerald MAU
+			+ added damage 1000
+			+ added deff 1000
 		+ Fixed Shoulder Emerald MAU
+			+ added damage 1000
+			+ added deff 1000
 		+ Fixed Lower Emerald MAU
+			+ added damage 1000
+			+ added deff 1000
 		+ Fixed Back Emerald MAU
+			+ added damage 1000
+			+ added deff 1000
