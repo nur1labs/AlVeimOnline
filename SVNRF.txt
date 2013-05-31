@@ -707,3 +707,76 @@ V.1.0 Beta 4
 		+ Fixed Back Emerald MAU
 			+ added damage 1000
 			+ added deff 1000
+//5-31-2013 13:36 #Hatta
+======== Server Side ===========
+- Fixed MAU Parts
+	+ Fixed Sapphire MAU
+		+ Fixed Arm Sapphire MAU
+			+ Change Repair Price
+		+ Fixed Head Sapphire MAU
+			+ Change Repair Price
+		+ Fixed Upper Sapphire MAU
+			+ added damage 1000
+			+ added deff 1000
+			+ Change Repair Price
+		+ Fixed Shoulder Sapphire MAU
+			+ added damage 1000
+			+ added deff 1000
+			+ Change Repair Price
+		+ Fixed Lower Sapphire MAU
+			+ Change Repair Price
+		+ Fixed Back Sapphire MAU
+			+ Change Repair Price
+	+ Fixed Emerald MAU
+		+ Fixed Arm Emerald MAU
+			+ Change Repair Price
+		+ Fixed Head Emerald MAU
+			+ Change Repair Price
+		+ Fixed Upper Emerald MAU
+			+ added damage 1000
+			+ added deff 1000
+			+ Change Repair Price
+		+ Fixed Shoulder Emerald MAU
+			+ added damage 1000
+			+ added deff 1000
+			+ Change Repair Price
+		+ Fixed Lower Emerald MAU
+			+ Change Repair Price
+		+ Fixed Back Emerald MAU
+			+ Change Repair Price
+======== Client Side ===========
+- Fixed MAU Parts
+	+ Fixed Sapphire MAU
+		+ Fixed Arm Sapphire MAU
+			+ Change Repair Price
+		+ Fixed Head Sapphire MAU
+			+ Change Repair Price
+		+ Fixed Upper Sapphire MAU
+			+ added damage 1000
+			+ added deff 1000
+			+ Change Repair Price
+		+ Fixed Shoulder Sapphire MAU
+			+ added damage 1000
+			+ added deff 1000
+			+ Change Repair Price
+		+ Fixed Lower Sapphire MAU
+			+ Change Repair Price
+		+ Fixed Back Sapphire MAU
+			+ Change Repair Price
+	+ Fixed Emerald MAU
+		+ Fixed Arm Emerald MAU
+			+ Change Repair Price
+		+ Fixed Head Emerald MAU
+			+ Change Repair Price
+		+ Fixed Upper Emerald MAU
+			+ added damage 1000
+			+ added deff 1000
+			+ Change Repair Price
+		+ Fixed Shoulder Emerald MAU
+			+ added damage 1000
+			+ added deff 1000
+			+ Change Repair Price
+		+ Fixed Lower Emerald MAU
+			+ Change Repair Price
+		+ Fixed Back Emerald MAU
+			+ Change Repair Price
