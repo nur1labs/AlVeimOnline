@@ -780,3 +780,9 @@ V.1.0 Beta 4
 			+ Change Repair Price
 		+ Fixed Back Emerald MAU
 			+ Change Repair Price
+//6-1-2013 13:54 #Frozen
+======== Server Side ===========
+- Added New Mobs Sette
+	+ ??? Mobs
+- Added New Drops Sette
+	+ ??? Mobs
