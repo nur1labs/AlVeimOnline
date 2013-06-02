@@ -786,3 +786,10 @@ V.1.0 Beta 4
 	+ ??? Mobs
 - Added New Drops Sette
 	+ ??? Mobs
+//6-2-2013 13:54 #Frozen,Hatta
+======== Server Side ===========
+- Added New Mobs Sette
+	+ ??? Mobs
+- Added New Drops Sette
+	+ ??? Mobs
+======== Github ===========
