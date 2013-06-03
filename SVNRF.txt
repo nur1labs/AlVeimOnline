@@ -793,3 +793,119 @@ V.1.0 Beta 4
 - Added New Drops Sette
 	+ ??? Mobs
 ======== Github ===========
+V.1.0 Beta 5
+//6-3-2013 9:00 #Frozen,Hatta
+======== Server Side ===========
+- Added New Mobs Sette
+	+ ??? Mobs
+- Added New Drops Sette
+	+ ??? Mobs
+- Fixed MAU Parts
+	+ Fixed Sapphire MAU
+		+ Fixed Arm Sapphire MAU
+			+ added damage 1000
+			+ added deff 1000
+			+ Change Repair Price
+		+ Fixed Head Sapphire MAU
+			+ added damage 1000
+			+ added deff 1000
+			+ Change Repair Price
+		+ Fixed Upper Sapphire MAU
+			+ added damage 1000
+			+ added deff 1000
+			+ Change Repair Price
+		+ Fixed Shoulder Sapphire MAU
+			+ added damage 1000
+			+ added deff 1000
+			+ Change Repair Price
+		+ Fixed Lower Sapphire MAU
+			+ added damage 1000
+			+ added deff 1000
+			+ Change Repair Price
+		+ Fixed Back Sapphire MAU
+			+ added damage 1000
+			+ added deff 1000
+			+ Change Repair Price
+	+ Fixed Emerald MAU
+		+ Fixed Arm Emerald MAU
+			+ added damage 1000
+			+ added deff 1000
+			+ Change Repair Price
+		+ Fixed Head Emerald MAU
+			+ added damage 1000
+			+ added deff 1000
+			+ Change Repair Price
+		+ Fixed Upper Emerald MAU
+			+ added damage 1000
+			+ added deff 1000
+			+ Change Repair Price
+		+ Fixed Shoulder Emerald MAU
+			+ added damage 1000
+			+ added deff 1000
+			+ Change Repair Price
+		+ Fixed Lower Emerald MAU
+			+ added damage 1000
+			+ added deff 1000
+			+ Change Repair Price
+		+ Fixed Back Emerald MAU
+			+ added damage 1000
+			+ added deff 1000
+			+ Change Repair Price
+- Added New Key
+	- Sapphire Key
+	- Emerald Key
+======== Client Side ===========
+- Fixed MAU Parts
+	+ Fixed Sapphire MAU
+		+ Fixed Arm Sapphire MAU
+			+ added damage 1000
+			+ added deff 1000
+			+ Change Repair Price
+		+ Fixed Head Sapphire MAU
+			+ added damage 1000
+			+ added deff 1000
+			+ Change Repair Price
+		+ Fixed Upper Sapphire MAU
+			+ added damage 1000
+			+ added deff 1000
+			+ Change Repair Price
+		+ Fixed Shoulder Sapphire MAU
+			+ added damage 1000
+			+ added deff 1000
+			+ Change Repair Price
+		+ Fixed Lower Sapphire MAU
+			+ added damage 1000
+			+ added deff 1000
+			+ Change Repair Price
+		+ Fixed Back Sapphire MAU
+			+ added damage 1000
+			+ added deff 1000
+			+ Change Repair Price
+	+ Fixed Emerald MAU
+		+ Fixed Arm Emerald MAU
+			+ added damage 1000
+			+ added deff 1000
+			+ Change Repair Price
+		+ Fixed Head Emerald MAU
+			+ added damage 1000
+			+ added deff 1000
+			+ Change Repair Price
+		+ Fixed Upper Emerald MAU
+			+ added damage 1000
+			+ added deff 1000
+			+ Change Repair Price
+		+ Fixed Shoulder Emerald MAU
+			+ added damage 1000
+			+ added deff 1000
+			+ Change Repair Price
+		+ Fixed Lower Emerald MAU
+			+ added damage 1000
+			+ added deff 1000
+			+ Change Repair Price
+		+ Fixed Back Emerald MAU
+			+ added damage 1000
+			+ added deff 1000
+			+ Change Repair Price
+- Added New Key
+	- Sapphire Key
+	- Emerald Key
