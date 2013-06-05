@@ -909,3 +909,69 @@ V.1.0 Beta 5
 - Added New Key
 	- Sapphire Key
 	- Emerald Key
+V.1.0 Beta 6
+//6-5-2013 9:00 #Hatta
+======== Server Side ===========
+- Fixed MAU Parts
+	+ Fixed Sapphire MAU
+		+ Fixed Arm Sapphire MAU
+			+ Fixed Mesh
+		+ Fixed Head Sapphire MAU
+			+ Fixed Mesh
+		+ Fixed Upper Sapphire MAU
+			+ Fixed Mesh
+		+ Fixed Shoulder Sapphire MAU
+			+ Fixed Mesh
+		+ Fixed Lower Sapphire MAU
+			+ Fixed Mesh
+		+ Fixed Back Sapphire MAU
+			+ Fixed Mesh
+	+ Fixed Emerald MAU
+		+ Fixed Arm Emerald MAU
+			+ Fixed Mesh
+		+ Fixed Head Emerald MAU
+			+ Fixed Mesh
+		+ Fixed Upper Emerald MAU
+			+ Fixed Mesh
+		+ Fixed Shoulder Emerald MAU
+			+ Fixed Mesh
+		+ Fixed Lower Emerald MAU
+			+ Fixed Mesh
+		+ Fixed Back Emerald MAU
+			+ Fixed Mesh
+- Added Tower
+	+ Imperial MS(Acc)
+	+ Destroyer MS(Bells)
+	+ Squid MS(Cora)
+======== Client Side ===========
+- Fixed MAU Parts
+	+ Fixed Sapphire MAU
+		+ Fixed Arm Sapphire MAU
+			+ Fixed Mesh
+		+ Fixed Head Sapphire MAU
+			+ Fixed Mesh
+		+ Fixed Upper Sapphire MAU
+			+ Fixed Mesh
+		+ Fixed Shoulder Sapphire MAU
+			+ Fixed Mesh
+		+ Fixed Lower Sapphire MAU
+			+ Fixed Mesh
+		+ Fixed Back Sapphire MAU
+			+ Fixed Mesh
+	+ Fixed Emerald MAU
+		+ Fixed Arm Emerald MAU
+			+ Fixed Mesh
+		+ Fixed Head Emerald MAU
+			+ Fixed Mesh
+		+ Fixed Upper Emerald MAU
+			+ Fixed Mesh
+		+ Fixed Shoulder Emerald MAU
+			+ Fixed Mesh
+		+ Fixed Lower Emerald MAU
+			+ Fixed Mesh
+		+ Fixed Back Emerald MAU
+			+ Fixed Mesh
+- Added Tower
+	+ Imperial MS(Acc)
+	+ Destroyer MS(Bells)
+	+ Squid MS(Cora)
