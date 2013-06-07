@@ -975,3 +975,11 @@ V.1.0 Beta 6
 	+ Imperial MS(Acc)
 	+ Destroyer MS(Bells)
 	+ Squid MS(Cora)
+V.1.0 Beta 7
+//6-7-2013 9:00 #Hatta,Flex
+======== Server Side ===========
+- Added Item(?)
+	+ ?????
+======== Client Side ===========
+- Added Item(?)
+	+ ?????
