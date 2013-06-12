@@ -983,3 +983,115 @@ V.1.0 Beta 7
 ======== Client Side ===========
 - Added Item(?)
 	+ ?????
+V.1.0 Beta 8
+//6-12-2013 1:00 #Hatta,Flex
+======== Server Side ===========
+- Fixed MAU Parts
+	+ Fixed Sapphire MAU
+		+ Fixed Arm Sapphire MAU
+			+ Fixed Mesh
+			+ Change Repair Price
+		+ Fixed Head Sapphire MAU
+			+ Fixed Mesh
+			+ Change Repair Price
+		+ Fixed Upper Sapphire MAU
+			+ Fixed Mesh
+			+ Change Repair Price
+		+ Fixed Shoulder Sapphire MAU
+			+ Fixed Mesh
+			+ Change Repair Price
+		+ Fixed Lower Sapphire MAU
+			+ Fixed Mesh
+			+ Change Repair Price
+		+ Fixed Back Sapphire MAU
+			+ Fixed Mesh
+			+ Change Repair Price
+	+ Fixed Emerald MAU
+		+ Fixed Arm Emerald MAU
+			+ Fixed Mesh
+			+ Change Repair Price
+		+ Fixed Head Emerald MAU
+			+ Fixed Mesh
+			+ Change Repair Price
+		+ Fixed Upper Emerald MAU
+			+ Fixed Mesh
+			+ Change Repair Price
+		+ Fixed Shoulder Emerald MAU
+			+ Fixed Mesh
+			+ Change Repair Price
+		+ Fixed Lower Emerald MAU
+			+ Fixed Mesh
+			+ Change Repair Price
+		+ Fixed Back Emerald MAU
+			+ Fixed Mesh
+			+ Change Repair Price
+- Fixed Item(?)
+- Fixed Tower
+	+ Imperial MS(Acc)
+	+ Destroyer MS(Bells)
+	+ Squid MS(Cora)
+- Change Standard
+	+ Upgrade Level 7 For Old Archive
+- Add New Shop
+	+ Weapon Shop Ignorance
+	+ Armor Shop Favor
+	+ Armor Shop Mercy
+	+ Armor Shop Grace
+- Armor Fixed
+	+ Golden PVP
+	+ 65 rare PVP
+	+ Level 60 Golden
+======== Client Side ===========
+- Fixed MAU Parts
+	+ Fixed Sapphire MAU
+		+ Fixed Arm Sapphire MAU
+			+ Fixed Mesh
+			+ Change Repair Price
+		+ Fixed Head Sapphire MAU
+			+ Fixed Mesh
+			+ Change Repair Price
+		+ Fixed Upper Sapphire MAU
+			+ Fixed Mesh
+			+ Change Repair Price
+		+ Fixed Shoulder Sapphire MAU
+			+ Fixed Mesh
+			+ Change Repair Price
+		+ Fixed Lower Sapphire MAU
+			+ Fixed Mesh
+			+ Change Repair Price
+		+ Fixed Back Sapphire MAU
+			+ Fixed Mesh
+			+ Change Repair Price
+	+ Fixed Emerald MAU
+		+ Fixed Arm Emerald MAU
+			+ Fixed Mesh
+			+ Change Repair Price
+		+ Fixed Head Emerald MAU
+			+ Fixed Mesh
+			+ Change Repair Price
+		+ Fixed Upper Emerald MAU
+			+ Fixed Mesh
+			+ Change Repair Price
+		+ Fixed Shoulder Emerald MAU
+			+ Fixed Mesh
+			+ Change Repair Price
+		+ Fixed Lower Emerald MAU
+			+ Fixed Mesh
+			+ Change Repair Price
+		+ Fixed Back Emerald MAU
+			+ Fixed Mesh
+			+ Change Repair Price
+- Fixed Item(?)
+- Fixed Tower
+	+ Imperial MS(Acc)
+	+ Destroyer MS(Bells)
+	+ Squid MS(Cora)
+- Add New Shop
+	+ Weapon Shop Ignorance
+	+ Armor Shop Favor
+	+ Armor Shop Mercy
+	+ Armor Shop Grace
+- Armor Fixed
+	+ Golden PVP
+	+ 65 rare PVP
+	+ Level 60 Golden
