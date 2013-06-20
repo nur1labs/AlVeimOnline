@@ -1105,3 +1105,13 @@ V.1.1 Beta 1
 	+ 2 world Fixing
 - Added Song
 	+ Hatsune Miku - Aria
+V.1.1 Build 1
+//6-20-2013 3:00 #Frozen
+======== Client Side ===========
+- Fixed MAU Parts
+	+ Fixed Sapphire MAU
+		+ Fixed Arm Sapphire MAU
+			+ Fixed Mesh
+			+ Change Repair Price
+- Add New Shop
+	+ Add Booster
