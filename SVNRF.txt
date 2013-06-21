@@ -1106,7 +1106,7 @@ V.1.1 Beta 1
 - Added Song
 	+ Hatsune Miku - Aria
 V.1.1 Build 1
-//6-20-2013 3:00 #Frozen
+//6-20-2013 3:00 #Hatta
 ======== Client Side ===========
 - Fixed MAU Parts
 	+ Fixed Sapphire MAU
@@ -1115,3 +1115,10 @@ V.1.1 Build 1
 			+ Change Repair Price
 - Add New Shop
 	+ Add Booster
+//6-21-2013 3:00 #Hatta
+======== Client Side ===========
+- Fixed MAU Parts
+	+ Fixed Sapphire MAU
+		+ Fixed Arm Sapphire MAU
+			+ Fixed Mesh
+			+ Change Repair Price
