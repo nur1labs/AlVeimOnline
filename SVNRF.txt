@@ -1122,3 +1122,150 @@ V.1.1 Build 1
 		+ Fixed Arm Sapphire MAU
 			+ Fixed Mesh
 			+ Change Repair Price
+============Episode Back To Zero============
+V.1.2 Alpha 1
+//7-13-2013 3:00 #Alveim_Team
+======== Server Side ===========
+- Attach New Armor
+	+ Radeon MS
+		+ Radeon Gautlent MS(L,W,R,F)
+		+ Radeon Helmet MS(L,W,R,F)
+		+ Radeon Upper MS(L,W,R,F)
+		+ Radeon Lower MS(L,W,R,F)
+		+ Radeon Shoe MS(L,W,R,F)
+	+ Freon MS
+		+ Freon Gautlent MS(L,W,R,F)
+		+ Freon Helmet MS(L,W,R,F)
+		+ Freon Upper MS(L,W,R,F)
+		+ Freon Lower MS(L,W,R,F)
+		+ Freon Shoe MS(L,W,R,F)
+	+ Electron MS
+		+ Electron Gautlent MS(L,W,R,F)
+		+ Electron Helmet MS(L,W,R,F)
+		+ Electron Upper MS(L,W,R,F)
+		+ Electron Lower MS(L,W,R,F)
+		+ Electron Shoe MS(L,W,R,F)
+======== Client Side ===========
+- Attach New Armor
+	+ Radeon MS
+		+ Radeon Upper MS(L,W,R,F)
+	+ Freon MS
+		+ Freon Upper MS(L,W,R,F)
+	+ Electron MS
+		+ Electron Upper MS(L,W,R,F)
+V.1.2 Alpha 2
+//7-14-2013 3:09 #Alveim_Team
+======== Client Side ===========
+- Attach New Armor
+	+ Radeon MS
+		+ Radeon Lower MS(L,W,R,F)
+	+ Freon MS
+		+ Freon Lower MS(L,W,R,F)
+	+ Electron MS
+		+ Electron Lower MS(L,W,R,F)
+V.1.2 Alpha 3
+//7-15-2013 7:02 #Alveim_Team
+======== Client Side ===========
+- Attach New Armor
+	+ Radeon MS
+		+ Radeon Gautlent MS(L,W,R,F)
+		+ Radeon Shoe MS(L,W,R,F)
+	+ Freon MS
+		+ Freon Gautlent MS(L,W,R,F)
+		+ Freon Shoe MS(L,W,R,F)
+	+ Electron MS
+		+ Electron Gautlent MS(L,W,R,F)
+		+ Electron Shoe MS(L,W,R,F)
+V.1.2 Alpha 4
+//7-16-2013 2:04 AM #Alveim_Team
+======== Client Side ===========
+- Fixed Armor MS
+	- Bug(Ver 1.2 Alpha 3)
+	- Seperated Object
+	+ Upper All Job
+	+ Gautlent All Job
+	+ Lower All Job
+	+ Shoe All Job
+V.1.2 Alpha 5
+//7-16-2013 10:24 AM #Alveim_Team
+======== Client Side ===========
+- Uploading New DA Structure
+V.1.2 Alpha 6
+//7-16-2013 12:30 PM #Alveim_Team
+======== Client Side ===========
+- Attach New Armor
+	+ Radeon MS
+		+ Radeon Helmet MS(L,W,R,F)
+	+ Freon MS
+		+ Freon Helmet MS(L,W,R,F)
+	+ Electron MS
+		+ Electron Helmet MS(L,W,R,F)
+//7-16-2013 1:08 PM #Alveim_Team
+======== Client Side ===========
+- Uploading New DA Structure
+- Fixed Armor MS
+	- Bug(Ver 1.2 Alpha 6 V1)
+	- Seperated Object
+	+ Upper All Job(Cora,Bellato)
+	+ Gautlent All Job(Cora,Bellato)
+	+ Lower All Job(Cora,Bellato)
+	+ Shoe All Job(Cora,Bellato)
+	+ Helmet All Job(Cora,Bellato)
+//7-16-2013 3:39 PM #Alveim_Team
+======== Client Side ===========
+- Uploading New DA Structure
+- Fixed Armor MS
+	- Bug(Ver 1.2 Alpha 6 V2)
+	- Seperated Object
+	+ Upper All Job(Accretia)
+	+ Gautlent All Job(Accretia)
+	+ Lower All Job(Accretia)
+	+ Shoe All Job(Accretia)
+	+ Helmet All Job(Accretia)
+//7-16-2013 11:03 PM #Alveim_Team
+======== Client Side ===========
+- Uploading New DA Structure
+- Fixed Armor MS
+	- Bug(Ver 1.2 Alpha 6 V3)
+	- Seperated Object
+	+ Upper All Job(Accretia,Cora,Bellato)
+	+ Gautlent All Job(Accretia,Cora,Bellato)
+	+ Lower All Job(Accretia,Cora,Bellato)
+	+ Shoe All Job(Accretia,Cora,Bellato)
+//7-16-2013 12:24 AM #Alveim_Team
+======== Client Side ===========
+- Uploading New DA Structure
+- Fixed Armor MS
+	- Bug(Ver 1.2 Alpha 6 V4)
+	- Seperated Object
+	+ Upper All Job(Accretia,Cora,Bellato)
+	+ Gautlent All Job(Accretia,Cora,Bellato)
+	+ Lower All Job(Accretia,Cora,Bellato)
+	+ Shoe All Job(Accretia,Cora,Bellato)
+V.1.2 Beta 1
+//7-18-2013 4:08 PM #Alveim_Team
+======== Server Side ===========
+- Fixed Armor MS Delay
+	- Delay(50s)
+	+ Delay(10s)
+======== Client Side ===========
+- Added Encrypt Rar
+V.1.2 Beta 2
+//7-19-2013 11:00 AM #Alveim_Team
+======== Server Side ===========
+- Added Effect
+V.1.2 Beta 3
+//7-20-2013 11:00 AM #Alveim_Team
+======== Client Side ===========
+- Added Effect
+- Added Armor New Skin
+- Fixed Booster
+	- Bug(VAlpha3-6)
+	+ New Golden Booster
+V.1.2.0 Alpha 1
+======== Server Side ===========
+- Added NPC Stuff 
+	+ 3 Tower
+======== Client Side ===========
+- Added NPC Stuff 
+	+ 3 Tower

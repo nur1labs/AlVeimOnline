@@ -1,9 +1,0 @@
-frostUpdate frost\
-rootURL = http://frostsecurity.net:80/
-check connection ...
-utility::connection_exists = ok
-download_url_to_directory: http://frostsecurity.net:80//frost/version/version.txt -> frost_launcher_version.txt, 0, 0, 0, 0
-download_url_to_directory ok, OK/200|0/0
-failed to get local version from register
-setGameName(frost\, )
-!PathFileExistsA(frost\\gameShieldDll.dll), err = 2
